@@ -7,7 +7,7 @@
 Summary:	Math::Int64 - Manipulate 64 bits integers in Perl
 Name:		perl-Math-Int64
 Version:	0.54
-Release:	1
+Release:	2
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
